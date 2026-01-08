@@ -89,7 +89,7 @@ wsl --set-default-version 2
 
 这里提供一种简单方式：通过去微软商店安装，以Ubuntu22.04为例
 
-![store-install](store-install.png)
+![store-install](./store-install.png)
 
 
 
