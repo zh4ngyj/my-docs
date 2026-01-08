@@ -1,5 +1,7 @@
 # start minikube with vmware
 
+Minikube 是一个用于在本地运行 Kubernetes 的工具。它通过在你的个人电脑上的虚拟机 (VM) 或容器（如 Docker）中运行一个单节点 Kubernetes 集群，让你能够方便地进行学习和开发。
+
 ## 环境
 
 物理机环境
