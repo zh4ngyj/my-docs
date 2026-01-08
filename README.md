@@ -1,5 +1,6 @@
 # docs
-my own docs
+
+个人知识文档
 
 ## [minikube](minikube/start.md)
 
@@ -17,3 +18,7 @@ Git 是目前世界上最先进的“分布式版本控制系统”
 
 通过适用于Linux的Windows子系统（WSL2），可以直接在Windows上运行你最喜爱的Linux工具、实用工具、应用程
 序和工作流。
+
+## [ai模型开发环境](https://github.com/way2ai/develope_model)
+
+以pytorch为基础环境核心的环境搭建，用来开发模型
