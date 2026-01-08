@@ -1,6 +1,6 @@
 # docs
 
-个人知识文档
+个人知识库
 
 ## [minikube](minikube/start.md)
 
